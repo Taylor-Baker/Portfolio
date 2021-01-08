@@ -4,4 +4,11 @@
   border-radius: 0%;
 }
 
+.my-logo {
+  float: left;
+  height: 120px;
+  width: 120px;
+  margin: 0 20px 20px 0px;
+}
+
 /*-- Body --*/
