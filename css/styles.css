@@ -15,6 +15,8 @@ h1 {
   height: 120px;
   width: 120px;
   margin: 0 20px 20px 0px;
+  border: 2px, black;
+  border-style: solid;
 }
 
 .header-bg {
@@ -67,7 +69,7 @@ li {
 }
 
 .education-image {
-  max-width: 800px;
+  max-width: 720px;
   padding: 15px;
   margin-left: auto;
   margin-right: auto;
@@ -81,6 +83,11 @@ li {
 
 .education-text li {
   margin-bottom: 1rem;
+}
+
+.why {
+  font-size: 22px;
+  font-weight: bold;
 }
 
 .skills-image {
@@ -131,7 +138,7 @@ li {
 }
 
 .goals-image {
-  max-width: 720px;
+  max-width: 680px;
   padding: 15px;
   margin-left: auto;
   margin-right: auto;
