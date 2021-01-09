@@ -12,3 +12,23 @@
 }
 
 /*-- Body --*/
+
+.interest-row {
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+.interest-img {
+  height: auto;
+  max-width: 300px;
+  padding: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  text-align: center;
+}
+
+.interest-adj {
+  max-width: 276px;
+}
+
