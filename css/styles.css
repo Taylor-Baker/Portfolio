@@ -13,14 +13,24 @@
 
 /*-- Body --*/
 
+.interest-text h4 {
+  font-size: 32px;
+}
+
+.interest-text p {
+  font-size: 20px;
+  text-align: justify;
+}
+
 .interest-row {
   margin-top: 5rem;
   margin-bottom: 5rem;
 }
 
 .interest-img {
-  height: auto;
-  max-width: 300px;
+  justify-content: center;
+  min-width: 200px;
+  max-width: 320px;
   padding: 15px;
   margin-left: auto;
   margin-right: auto;
@@ -29,6 +39,7 @@
 }
 
 .interest-adj {
-  max-width: 276px;
+  min-width: 186px;
+  max-width: 294px;
 }
 
