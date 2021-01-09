@@ -2,6 +2,8 @@
 
 h1 {
   font-size: 60px;
+  margin-top: 3rem;
+  margin-bottom: 1rem;
 }
 
 .jumbo {
@@ -13,6 +15,16 @@ h1 {
   height: 120px;
   width: 120px;
   margin: 0 20px 20px 0px;
+}
+
+.header-bg {
+  background-image: url('../img/guy-at-desk-with-puppies.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+.footer-bg {
+  background-color: rgb(22, 22, 26);
 }
 
 /*-- Body --*/
@@ -31,6 +43,10 @@ h3 {
 
 h4 {
   font-size: 32px;
+}
+
+h5 {
+  margin-bottom: 3rem;
 }
 
 h6 {
@@ -68,7 +84,7 @@ li {
 }
 
 .skills-image {
-  max-width: 360px;
+  max-width: 400px;
   padding: 15px;
   margin-left: auto;
   margin-right: auto;
