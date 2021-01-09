@@ -1,4 +1,4 @@
-#_Portfolio_
+# _Portfolio_
 
 #### _My professional portfolio and resume, current as of January 8th, 2021_
 
