@@ -46,7 +46,7 @@ _Note: If you do not know how to clone down a repository, instructions on how to
 
 _Viewing in gh-pages is much easier. Simply click on the link below to preview the project in it's entirety:_
 
-* _<Taylor-Baker.github.io/Portfolio>_
+* _https://Taylor-Baker.github.io/Portfolio_
 
 ## Known Bugs
 
